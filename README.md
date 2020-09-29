@@ -1,4 +1,4 @@
-![Stalker Count](https : //profile-counter.glitch.me/pranikz/count.svg)
+![Stalker Count](https://profile-counter.glitch.me/pranikz/count.svg)
 
 ### Hi there 👋
 
