@@ -1,6 +1,6 @@
 
 
-## Hi there 👋 *You  are  Stalker  number* ![Stalker Count](https://profile-counter.glitch.me/pranikz/count.svg)
+## Hi there 👋 *Stalker  N°* ![Stalker Count](https://profile-counter.glitch.me/pranikz/count.svg)
 
 ### Just in case you wanna know more about me
 #### I'm Pratyush Mahapatra
