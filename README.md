@@ -4,7 +4,7 @@
 
 ### Just in case you wanna know more about me
 #### I'm Pratyush Mahapatra
-- 🌍 You can find me anywhere on the internet by my alias ***@pranikz** or **@pranikz_irl**
+- 🌍 You can find me anywhere on the internet by my alias ***@pranikz** or **@pranikz_irl***
 
 - 🔭 I’m currently working on **My DSA Skills and Web Development**
 
