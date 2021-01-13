@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **My DSA Skills and Web Development**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **ReactJS and Vanilla Javascript**
 
 - 👯 I’m looking to collaborate on **Web Development**
 
