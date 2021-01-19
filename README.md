@@ -18,7 +18,5 @@
 
 - 📫 How to reach me: [**twitter.com/pranikz**](https://twitter.com/pranikz) or [**Mail me here**](mailto:hello@pranikz.ml)
 
-- 😄 Pronouns: **he/him**
-
 - ⚡ Fun fact: **I like to travel and interact with people. We can grab coffee anytime if you want 😉.**
 
