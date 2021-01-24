@@ -29,6 +29,6 @@
 
 <p align="center">
 <a href="https://pranikz.ml/"><img alt="Website" src="https://img.shields.io/badge/Website-pranikz.ml-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/pranikz/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Pratyush%20Mahapatra-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/pranikz/"><img  alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Pratyush%20Mahapatra-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:hello@pranikz.ml"><img alt="Email" src="https://img.shields.io/badge/Email-hello@pranikz.ml-blue?style=flat-square&logo=gmail"></a>
 </p>
