@@ -13,6 +13,7 @@
 - ⚡ Fun fact: **I like to travel and interact with people. We can grab coffee anytime if you want 😉.**
 
 ![Pratyush's github stats](https://github-readme-stats.vercel.app/api?username=pranikz&show_icons=true&hide=["issues"])
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranikz&layout=compact)
 
 <section align="center">
