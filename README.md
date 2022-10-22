@@ -7,9 +7,8 @@
 - 🔭 I’m currently working on **My DSA Skills and Web Development**
 - 🌱 I’m currently learning **Solidity**
 - 👯 I’m looking to collaborate on **Web Development**
-- 🤔 I’m looking for help with **WEB3**
 - 💬 Ask me about **Machine Learning**, **DSA** and **Web development**
-- 📫 How to reach me: [**twitter.com/pranikz**](https://twitter.com/pranikz) or [**Mail me here**](mailto:hello@pranikz.ml)
+- 📫 How to reach me: [**twitter.com/pranikz**](https://twitter.com/pranikz) or [**Mail me here**](mailto:pratyushmahapatra2000@gmail.com)
 - ⚡ Fun fact: **I like to travel and interact with people. We can grab coffee anytime if you want 😉.**
 
 ![Pratyush's github stats](https://github-readme-stats.vercel.app/api?username=pranikz&show_icons=true&hide=["issues"])
