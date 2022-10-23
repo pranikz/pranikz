@@ -19,7 +19,7 @@
 </section>
 
 <p align="center">
-<a href="https://pranikz.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" ></a>
+<a href="https://www.pranikz.dev/"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" ></a>
 <a href="https://www.linkedin.com/in/pranikz/"><img  alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit"></a>
 <a href="mailto:pratyushmahapatra2000@gmail.com" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
