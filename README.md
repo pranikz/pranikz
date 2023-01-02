@@ -5,11 +5,10 @@
 #### I'm Pratyush Mahapatra
 - 🌍 You can find me anywhere on the internet by my alias ***@pranikz** or **@pranikz_irl***
 - 🔭 I’m currently working on **My DSA Skills and Web Development**
-- 🌱 I’m currently learning **Solidity**
 - 👯 I’m looking to collaborate on **Web Development**
 - 💬 Ask me about **Machine Learning**, **DSA** and **Web development**
 - 📫 How to reach me: [**twitter.com/pranikz**](https://twitter.com/pranikz) or [**Mail me here**](mailto:pratyushmahapatra2000@gmail.com)
-- ⚡ Fun fact: **I like to travel and interact with people. We can grab coffee anytime if you want 😉.**
+- ⚡ Fun fact: **I don't work for free untill it's opensourced :) **
 
 ![Pratyush's github stats](https://github-readme-stats.vercel.app/api?username=pranikz&show_icons=true&hide=["issues"])
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranikz&layout=compact)
