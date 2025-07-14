@@ -1,6 +1,6 @@
 
 
-## Hi there 👋 *Stalker  N°* ![Stalker Count](https://profile-counter.glitch.me/pranikz/count.svg)
+## Hi there 👋
 ### Just in case you wanna know more about me
 #### I'm Pratyush Mahapatra
 - 🌍 You can find me anywhere on the internet by my alias ***@pranikz** or **@pranikz_irl***
